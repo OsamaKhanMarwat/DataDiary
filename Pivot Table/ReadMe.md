@@ -27,6 +27,6 @@ Make time-based data analysis easier with interactive timelines.
 ### 8) Apply Conditional Formatting: 
 Highlight key data points to make important information stand out.
 
-### Bonus Tip: Add a Final Touch of Excellence**
+### Bonus Tip: Add a Final Touch of Excellence
 
 Incorporate custom-calculated fields or slicers for deeper insights and interactivity.

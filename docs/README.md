@@ -1,4 +1,4 @@
-📊 Power BI Service Dashboards
+*📊 Power BI Service Dashboards*
 
 Welcome to my Power BI Dashboard Portfolio!
 This folder contains interactive dashboards and visual analytics projects that showcase my skills in data analysis, business intelligence, and storytelling with data.

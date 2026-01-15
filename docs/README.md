@@ -1,48 +1,38 @@
-*📊 Power BI Service Dashboards*
+**📊 Power BI Service Dashboards**
 
 Welcome to my Power BI Dashboard Portfolio!
 This folder contains interactive dashboards and visual analytics projects that showcase my skills in data analysis, business intelligence, and storytelling with data.
 
-🚀 What’s inside
+**🚀 What’s inside**
 
 In this directory, you’ll find:
 
-📈 Power BI dashboards built for real-world business scenarios
-
-📂 Supporting files (data models, reports, and visuals)
-
-🌐 A live portfolio website hosted with GitHub Pages
-
-🌍 Live Portfolio
+1. 📈 Power BI dashboards built for real-world business scenarios
+2. 📂 Supporting files (data models, reports, and visuals)
+3. 🌐 A live portfolio website hosted with GitHub Pages
+**🌍 Live Portfolio**
 
 You can view the dashboards online here:
 👉 https://osamakhanmarwat.github.io/DataDiary/
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
-Power BI – Data modeling, DAX, and visualization
+1. Power BI – Data modeling, DAX, and visualization
+2. Excel – Data cleaning and preparation
+3. SQL – Querying and transforming datasets
+4. Python – Automation and analysis (where applicable)
+5.  GitHub Pages – Portfolio hosting
 
-Excel – Data cleaning and preparation
-
-SQL – Querying and transforming datasets
-
-Python – Automation and analysis (where applicable)
-
-GitHub Pages – Portfolio hosting
-
-🎯 Purpose
+**🎯 Purpose**
 
 This project is part of my journey to:
 
-Practice real-world data analytics
+1. Practice real-world data analytics
+2. Build a strong professional portfolio
+3. Share insights with the data community
+4. Continuously improve my BI and visualization skills
 
-Build a strong professional portfolio
-
-Share insights with the data community
-
-Continuously improve my BI and visualization skills
-
-📬 Contact
+**📬 Contact**
 
 If you’d like to collaborate or give feedback, feel free to connect:
 
